@@ -34,6 +34,12 @@ A React-based quiz application that allows users to take a timed quiz with 15 qu
 
 ## Demo
 
+![image](https://github.com/user-attachments/assets/cbb0de9c-968f-4e54-8644-6415d4864726)
+![image](https://github.com/user-attachments/assets/a9ec129e-ef0d-4f2d-b572-98041c37a786)
+![image](https://github.com/user-attachments/assets/042829ae-3b77-494d-9b2e-52ddeedaef10)
+![image](https://github.com/user-attachments/assets/c4934dd8-c974-4e69-9a02-4da1af593c96)
+
+
 
 ---
 
