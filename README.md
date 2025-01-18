@@ -34,7 +34,6 @@ A React-based quiz application that allows users to take a timed quiz with 15 qu
 
 ## Demo
 
-[Insert a link to a live demo of the application or screenshots if applicable.]
 
 ---
 
@@ -42,5 +41,5 @@ A React-based quiz application that allows users to take a timed quiz with 15 qu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quiz-application.git
+   git clone https://https://github.com/ankurbaijal123/GK-Quiz.git
    cd quiz-application
