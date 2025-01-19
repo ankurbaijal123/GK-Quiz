@@ -53,3 +53,6 @@ https://github.com/user-attachments/assets/e67edc41-8962-47d0-88c4-0ac7664c0332
    ```bash
    git clone https://https://github.com/ankurbaijal123/GK-Quiz.git
    cd quiz-application
+2. Run the application:
+   ```bash
+   npm run start
